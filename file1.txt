@@ -1,2 +1,3 @@
 This is an introductory session on git and github.
-I am hungry rightnow
+we are really having fun.
+this is really interesting.
